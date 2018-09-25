@@ -1,0 +1,19 @@
+What are some common attributes you’d use on the following HTML elements:
+
+<img/>
+
+<a>link</a>
+
+<form></form>
+
+<script></script>
+
+<input>
+
+Some attributes for the following HTML elements are:
+
+<img/> - alt, class
+<a>link</a>- href, title
+<form></form - method, action
+<script></script> - src
+<input> - type, name
